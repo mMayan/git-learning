@@ -18,3 +18,7 @@ def oshi():
         print('todos vão gritar e adorar\n')
     print('vou te transformar no ídolo perfeito')
 oshi() #parece que eu só preciso usar o print quando é pra mostrar alguma coisa na tela usando o return
+
+def all():
+    return "TODOS VÃO GRITAR E ADORAR!!"
+print(all())
